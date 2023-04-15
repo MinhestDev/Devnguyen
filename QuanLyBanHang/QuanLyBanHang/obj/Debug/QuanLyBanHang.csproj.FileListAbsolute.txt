@@ -1,0 +1,68 @@
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FChinh.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FDangNhap.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_BanHang.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FThongTinDangNhap.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLNhanVien.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_ThemKhachHang.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDanhMuc.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDonHang.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLKhachHang.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLSanPham.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Bill.resources
+E:\CodeUngDung\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QL_HangTraLai.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FChinh.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FThongTinDangNhap.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_BanHang.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FDangNhap.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Bill.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDanhMuc.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDonHang.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLKhachHang.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLNhanVien.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLSanPham.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QL_HangTraLai.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_ThemKhachHang.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\CodeUngDung\Done\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FChinh.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FThongTinDangNhap.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_BanHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FDangNhap.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_Bill.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDanhMuc.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLDonHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLKhachHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLNhanVien.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QLSanPham.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_QL_HangTraLai.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.F_ThemKhachHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Máy tính\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
